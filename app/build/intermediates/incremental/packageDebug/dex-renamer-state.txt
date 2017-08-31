@@ -1,0 +1,7 @@
+#Thu Aug 31 17:42:18 JST 2017
+base.0=/Users/sonworks/Documents/TouchEventSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c352fcf5e357eb13e433535879aff0819c1cedd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sonworks/Documents/TouchEventSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_481e021edc86a18e37c7d41f260fbc9713bda602/classes.dex
+base.1=/Users/sonworks/Documents/TouchEventSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_481e021edc86a18e37c7d41f260fbc9713bda602
+file.0=/Users/sonworks/Documents/TouchEventSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c352fcf5e357eb13e433535879aff0819c1cedd/classes.dex
